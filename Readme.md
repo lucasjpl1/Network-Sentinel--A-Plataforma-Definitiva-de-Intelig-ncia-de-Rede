@@ -90,8 +90,6 @@ O motor burocrático.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 | Dashboard - Visão Geral | Detecção de Anomalias (IA) |
 |:---:|:---:|
 | ![Dashboard - Visão Geral](image/print1.png) | ![Detecção de Anomalias (IA)](image/print1.png) |
